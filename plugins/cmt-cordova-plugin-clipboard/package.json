@@ -1,0 +1,8 @@
+{
+  "name": "cmt-cordova-plugin-clipboard",
+  "version": "0.1.0-cmt",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "cmt-forked-from": "https://github.com/VersoSolutions/CordovaClipboard.git#03fe48b62411cbff22229ca13cc3ac8b282f7945"
+}
